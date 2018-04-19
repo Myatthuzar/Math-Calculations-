@@ -7,12 +7,20 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		5E5243F91FF8B58E009A86DB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E5243F81FF8B58E009A86DB /* AppDelegate.swift */; };
-		5E5243FB1FF8B58E009A86DB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E5243FA1FF8B58E009A86DB /* ViewController.swift */; };
-		5E5243FE1FF8B58E009A86DB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5E5243FC1FF8B58E009A86DB /* Main.storyboard */; };
-		5E5244001FF8B58E009A86DB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5E5243FF1FF8B58E009A86DB /* Assets.xcassets */; };
-		5E5244031FF8B58E009A86DB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5E5244011FF8B58E009A86DB /* LaunchScreen.storyboard */; };
+		5E27E8DF20834913002AED5D /* bf9a90d8250485c16f2226d3e1cddc25.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5E27E8B52083490F002AED5D /* bf9a90d8250485c16f2226d3e1cddc25.jpg */; };
+		5E27E8E020834913002AED5D /* math 14-40-49-026.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E27E8B72083490F002AED5D /* math 14-40-49-026.png */; };
+		5E27E8E120834913002AED5D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5E27E8BB2083490F002AED5D /* LaunchScreen.storyboard */; };
+		5E27E8E220834913002AED5D /* The Nights guitar.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 5E27E8BF2083490F002AED5D /* The Nights guitar.mp3 */; };
+		5E27E8E320834913002AED5D /* LogoMakr_3U02WM.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E27E8C52083490F002AED5D /* LogoMakr_3U02WM.png */; };
+		5E27E8E420834913002AED5D /* math.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E27E8C720834910002AED5D /* math.png */; };
+		5E27E8E520834913002AED5D /* math_int.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E27E8C920834910002AED5D /* math_int.png */; };
+		5E27E8E620834913002AED5D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5E27E8CF20834910002AED5D /* Assets.xcassets */; };
+		5E27E8E720834913002AED5D /* math 14-40-32-717.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E27E8D120834912002AED5D /* math 14-40-32-717.png */; };
+		5E27E8E820834913002AED5D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5E27E8DB20834913002AED5D /* Main.storyboard */; };
+		5E27E8E920834913002AED5D /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5E27E8DD20834913002AED5D /* Info.plist */; };
+		5E4CA04D20089A2900ADF23A /* gmp-6.1.2.tar.lz in Frameworks */ = {isa = PBXBuildFile; fileRef = 5E4CA04C20089A2800ADF23A /* gmp-6.1.2.tar.lz */; };
 		5E52440E1FF8B58F009A86DB /* Math_Calculations_Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E52440D1FF8B58F009A86DB /* Math_Calculations_Tests.swift */; };
+		5E5DD1682087127400060B88 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E5DD1672087127100060B88 /* Default-568h@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -26,16 +34,35 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		5E27E8B22083490F002AED5D /* Base */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Base; path = Base.lproj/2DShapesPerimeter.swift; sourceTree = "<group>"; };
+		5E27E8B42083490F002AED5D /* Base */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Base; path = Base.lproj/PythagorasTheorem.swift; sourceTree = "<group>"; };
+		5E27E8B62083490F002AED5D /* Base */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Base; path = Base.lproj/bf9a90d8250485c16f2226d3e1cddc25.jpg; sourceTree = "<group>"; };
+		5E27E8B82083490F002AED5D /* Base */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Base; path = "Base.lproj/math 14-40-49-026.png"; sourceTree = "<group>"; };
+		5E27E8BA2083490F002AED5D /* Base */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Base; path = Base.lproj/CircularShapesOne.swift; sourceTree = "<group>"; };
+		5E27E8BC2083490F002AED5D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		5E27E8BE2083490F002AED5D /* Base */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Base; path = Base.lproj/2DShapesAreaTwo.swift; sourceTree = "<group>"; };
+		5E27E8C02083490F002AED5D /* Base */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Base; path = "Base.lproj/The Nights guitar.mp3"; sourceTree = "<group>"; };
+		5E27E8C22083490F002AED5D /* Base */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Base; path = Base.lproj/ViewController.swift; sourceTree = "<group>"; };
+		5E27E8C42083490F002AED5D /* Base */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Base; path = Base.lproj/AppDelegate.swift; sourceTree = "<group>"; };
+		5E27E8C62083490F002AED5D /* Base */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Base; path = Base.lproj/LogoMakr_3U02WM.png; sourceTree = "<group>"; };
+		5E27E8C820834910002AED5D /* Base */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Base; path = Base.lproj/math.png; sourceTree = "<group>"; };
+		5E27E8CA20834910002AED5D /* Base */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Base; path = Base.lproj/math_int.png; sourceTree = "<group>"; };
+		5E27E8CC20834910002AED5D /* Base */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Base; path = Base.lproj/2DShapesArea.swift; sourceTree = "<group>"; };
+		5E27E8CE20834910002AED5D /* Base */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Base; path = Base.lproj/3DShapesVolume.swift; sourceTree = "<group>"; };
+		5E27E8D020834910002AED5D /* Base */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Base; path = Base.lproj/Assets.xcassets; sourceTree = "<group>"; };
+		5E27E8D220834912002AED5D /* Base */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Base; path = "Base.lproj/math 14-40-32-717.png"; sourceTree = "<group>"; };
+		5E27E8D420834912002AED5D /* Base */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Base; path = Base.lproj/CircularShapesTwo.swift; sourceTree = "<group>"; };
+		5E27E8D620834912002AED5D /* Base */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Base; path = Base.lproj/Exponents.swift; sourceTree = "<group>"; };
+		5E27E8D820834912002AED5D /* Base */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Base; path = Base.lproj/FactorialCalculator.swift; sourceTree = "<group>"; };
+		5E27E8DA20834913002AED5D /* Base */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Base; path = Base.lproj/ReferencesPage.swift; sourceTree = "<group>"; };
+		5E27E8DC20834913002AED5D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		5E27E8DE20834913002AED5D /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = Base; path = Base.lproj/Info.plist; sourceTree = "<group>"; };
+		5E4CA04C20089A2800ADF23A /* gmp-6.1.2.tar.lz */ = {isa = PBXFileReference; lastKnownFileType = file; name = "gmp-6.1.2.tar.lz"; path = "../../../Downloads/gmp-6.1.2.tar.lz"; sourceTree = "<group>"; };
 		5E5243F51FF8B58D009A86DB /* Math Calculations!.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Math Calculations!.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		5E5243F81FF8B58E009A86DB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		5E5243FA1FF8B58E009A86DB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		5E5243FD1FF8B58E009A86DB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		5E5243FF1FF8B58E009A86DB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		5E5244021FF8B58E009A86DB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		5E5244041FF8B58E009A86DB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5E5244091FF8B58F009A86DB /* Math Calculations!Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Math Calculations!Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E52440D1FF8B58F009A86DB /* Math_Calculations_Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Math_Calculations_Tests.swift; sourceTree = "<group>"; };
 		5E52440F1FF8B58F009A86DB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5E5DD1672087127100060B88 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,6 +70,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5E4CA04D20089A2900ADF23A /* gmp-6.1.2.tar.lz in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -56,12 +84,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		5E4CA04B20089A2100ADF23A /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				5E4CA04C20089A2800ADF23A /* gmp-6.1.2.tar.lz */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		5E5243EC1FF8B58B009A86DB = {
 			isa = PBXGroup;
 			children = (
+				5E5DD1672087127100060B88 /* Default-568h@2x.png */,
 				5E5243F71FF8B58D009A86DB /* Math Calculations! */,
 				5E52440C1FF8B58F009A86DB /* Math Calculations!Tests */,
 				5E5243F61FF8B58D009A86DB /* Products */,
+				5E4CA04B20089A2100ADF23A /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -77,12 +115,29 @@
 		5E5243F71FF8B58D009A86DB /* Math Calculations! */ = {
 			isa = PBXGroup;
 			children = (
-				5E5243F81FF8B58E009A86DB /* AppDelegate.swift */,
-				5E5243FA1FF8B58E009A86DB /* ViewController.swift */,
-				5E5243FC1FF8B58E009A86DB /* Main.storyboard */,
-				5E5243FF1FF8B58E009A86DB /* Assets.xcassets */,
-				5E5244011FF8B58E009A86DB /* LaunchScreen.storyboard */,
-				5E5244041FF8B58E009A86DB /* Info.plist */,
+				5E27E8CB20834910002AED5D /* 2DShapesArea.swift */,
+				5E27E8BD2083490F002AED5D /* 2DShapesAreaTwo.swift */,
+				5E27E8B12083490F002AED5D /* 2DShapesPerimeter.swift */,
+				5E27E8CD20834910002AED5D /* 3DShapesVolume.swift */,
+				5E27E8C32083490F002AED5D /* AppDelegate.swift */,
+				5E27E8CF20834910002AED5D /* Assets.xcassets */,
+				5E27E8B52083490F002AED5D /* bf9a90d8250485c16f2226d3e1cddc25.jpg */,
+				5E27E8B92083490F002AED5D /* CircularShapesOne.swift */,
+				5E27E8D320834912002AED5D /* CircularShapesTwo.swift */,
+				5E27E8D520834912002AED5D /* Exponents.swift */,
+				5E27E8D720834912002AED5D /* FactorialCalculator.swift */,
+				5E27E8DD20834913002AED5D /* Info.plist */,
+				5E27E8BB2083490F002AED5D /* LaunchScreen.storyboard */,
+				5E27E8C52083490F002AED5D /* LogoMakr_3U02WM.png */,
+				5E27E8DB20834913002AED5D /* Main.storyboard */,
+				5E27E8D120834912002AED5D /* math 14-40-32-717.png */,
+				5E27E8B72083490F002AED5D /* math 14-40-49-026.png */,
+				5E27E8C920834910002AED5D /* math_int.png */,
+				5E27E8C720834910002AED5D /* math.png */,
+				5E27E8B32083490F002AED5D /* PythagorasTheorem.swift */,
+				5E27E8D920834913002AED5D /* ReferencesPage.swift */,
+				5E27E8BF2083490F002AED5D /* The Nights guitar.mp3 */,
+				5E27E8C12083490F002AED5D /* ViewController.swift */,
 			);
 			path = "Math Calculations!";
 			sourceTree = "<group>";
@@ -146,6 +201,7 @@
 				TargetAttributes = {
 					5E5243F41FF8B58C009A86DB = {
 						CreatedOnToolsVersion = 9.2;
+						LastSwiftMigration = 0920;
 						ProvisioningStyle = Automatic;
 					};
 					5E5244081FF8B58F009A86DB = {
@@ -179,9 +235,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5E5244031FF8B58E009A86DB /* LaunchScreen.storyboard in Resources */,
-				5E5244001FF8B58E009A86DB /* Assets.xcassets in Resources */,
-				5E5243FE1FF8B58E009A86DB /* Main.storyboard in Resources */,
+				5E27E8E120834913002AED5D /* LaunchScreen.storyboard in Resources */,
+				5E27E8E820834913002AED5D /* Main.storyboard in Resources */,
+				5E27E8E520834913002AED5D /* math_int.png in Resources */,
+				5E27E8E220834913002AED5D /* The Nights guitar.mp3 in Resources */,
+				5E27E8E320834913002AED5D /* LogoMakr_3U02WM.png in Resources */,
+				5E5DD1682087127400060B88 /* Default-568h@2x.png in Resources */,
+				5E27E8DF20834913002AED5D /* bf9a90d8250485c16f2226d3e1cddc25.jpg in Resources */,
+				5E27E8E720834913002AED5D /* math 14-40-32-717.png in Resources */,
+				5E27E8E020834913002AED5D /* math 14-40-49-026.png in Resources */,
+				5E27E8E920834913002AED5D /* Info.plist in Resources */,
+				5E27E8E620834913002AED5D /* Assets.xcassets in Resources */,
+				5E27E8E420834913002AED5D /* math.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -199,8 +264,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5E5243FB1FF8B58E009A86DB /* ViewController.swift in Sources */,
-				5E5243F91FF8B58E009A86DB /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -223,20 +286,188 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		5E5243FC1FF8B58E009A86DB /* Main.storyboard */ = {
+		5E27E8B12083490F002AED5D /* 2DShapesPerimeter.swift */ = {
 			isa = PBXVariantGroup;
 			children = (
-				5E5243FD1FF8B58E009A86DB /* Base */,
+				5E27E8B22083490F002AED5D /* Base */,
+			);
+			name = 2DShapesPerimeter.swift;
+			sourceTree = "<group>";
+		};
+		5E27E8B32083490F002AED5D /* PythagorasTheorem.swift */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5E27E8B42083490F002AED5D /* Base */,
+			);
+			name = PythagorasTheorem.swift;
+			sourceTree = "<group>";
+		};
+		5E27E8B52083490F002AED5D /* bf9a90d8250485c16f2226d3e1cddc25.jpg */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5E27E8B62083490F002AED5D /* Base */,
+			);
+			name = bf9a90d8250485c16f2226d3e1cddc25.jpg;
+			sourceTree = "<group>";
+		};
+		5E27E8B72083490F002AED5D /* math 14-40-49-026.png */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5E27E8B82083490F002AED5D /* Base */,
+			);
+			name = "math 14-40-49-026.png";
+			sourceTree = "<group>";
+		};
+		5E27E8B92083490F002AED5D /* CircularShapesOne.swift */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5E27E8BA2083490F002AED5D /* Base */,
+			);
+			name = CircularShapesOne.swift;
+			sourceTree = "<group>";
+		};
+		5E27E8BB2083490F002AED5D /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5E27E8BC2083490F002AED5D /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		5E27E8BD2083490F002AED5D /* 2DShapesAreaTwo.swift */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5E27E8BE2083490F002AED5D /* Base */,
+			);
+			name = 2DShapesAreaTwo.swift;
+			sourceTree = "<group>";
+		};
+		5E27E8BF2083490F002AED5D /* The Nights guitar.mp3 */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5E27E8C02083490F002AED5D /* Base */,
+			);
+			name = "The Nights guitar.mp3";
+			sourceTree = "<group>";
+		};
+		5E27E8C12083490F002AED5D /* ViewController.swift */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5E27E8C22083490F002AED5D /* Base */,
+			);
+			name = ViewController.swift;
+			sourceTree = "<group>";
+		};
+		5E27E8C32083490F002AED5D /* AppDelegate.swift */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5E27E8C42083490F002AED5D /* Base */,
+			);
+			name = AppDelegate.swift;
+			sourceTree = "<group>";
+		};
+		5E27E8C52083490F002AED5D /* LogoMakr_3U02WM.png */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5E27E8C62083490F002AED5D /* Base */,
+			);
+			name = LogoMakr_3U02WM.png;
+			sourceTree = "<group>";
+		};
+		5E27E8C720834910002AED5D /* math.png */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5E27E8C820834910002AED5D /* Base */,
+			);
+			name = math.png;
+			sourceTree = "<group>";
+		};
+		5E27E8C920834910002AED5D /* math_int.png */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5E27E8CA20834910002AED5D /* Base */,
+			);
+			name = math_int.png;
+			sourceTree = "<group>";
+		};
+		5E27E8CB20834910002AED5D /* 2DShapesArea.swift */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5E27E8CC20834910002AED5D /* Base */,
+			);
+			name = 2DShapesArea.swift;
+			sourceTree = "<group>";
+		};
+		5E27E8CD20834910002AED5D /* 3DShapesVolume.swift */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5E27E8CE20834910002AED5D /* Base */,
+			);
+			name = 3DShapesVolume.swift;
+			sourceTree = "<group>";
+		};
+		5E27E8CF20834910002AED5D /* Assets.xcassets */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5E27E8D020834910002AED5D /* Base */,
+			);
+			name = Assets.xcassets;
+			sourceTree = "<group>";
+		};
+		5E27E8D120834912002AED5D /* math 14-40-32-717.png */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5E27E8D220834912002AED5D /* Base */,
+			);
+			name = "math 14-40-32-717.png";
+			sourceTree = "<group>";
+		};
+		5E27E8D320834912002AED5D /* CircularShapesTwo.swift */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5E27E8D420834912002AED5D /* Base */,
+			);
+			name = CircularShapesTwo.swift;
+			sourceTree = "<group>";
+		};
+		5E27E8D520834912002AED5D /* Exponents.swift */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5E27E8D620834912002AED5D /* Base */,
+			);
+			name = Exponents.swift;
+			sourceTree = "<group>";
+		};
+		5E27E8D720834912002AED5D /* FactorialCalculator.swift */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5E27E8D820834912002AED5D /* Base */,
+			);
+			name = FactorialCalculator.swift;
+			sourceTree = "<group>";
+		};
+		5E27E8D920834913002AED5D /* ReferencesPage.swift */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5E27E8DA20834913002AED5D /* Base */,
+			);
+			name = ReferencesPage.swift;
+			sourceTree = "<group>";
+		};
+		5E27E8DB20834913002AED5D /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5E27E8DC20834913002AED5D /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		5E5244011FF8B58E009A86DB /* LaunchScreen.storyboard */ = {
+		5E27E8DD20834913002AED5D /* Info.plist */ = {
 			isa = PBXVariantGroup;
 			children = (
-				5E5244021FF8B58E009A86DB /* Base */,
+				5E27E8DE20834913002AED5D /* Base */,
 			);
-			name = LaunchScreen.storyboard;
+			name = Info.plist;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -353,12 +584,15 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = ZAUKEBAZ73;
-				INFOPLIST_FILE = "Math Calculations!/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/Math Calculations!Tests/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.myatthuzarkyaw.Math-Calculations-";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -368,9 +602,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = ZAUKEBAZ73;
-				INFOPLIST_FILE = "Math Calculations!/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/Math Calculations!Tests/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.myatthuzarkyaw.Math-Calculations-";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -382,7 +618,6 @@
 		5E5244161FF8B58F009A86DB /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = ZAUKEBAZ73;
@@ -399,7 +634,6 @@
 		5E5244171FF8B58F009A86DB /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = ZAUKEBAZ73;
